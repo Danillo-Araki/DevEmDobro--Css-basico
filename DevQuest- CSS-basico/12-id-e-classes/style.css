@@ -1,0 +1,12 @@
+/* #descricao-video-game, #descricao-pc{
+    background-color:orange ;
+} */
+
+.descricao-produto{
+    background-color:orange ;
+    color: aliceblue;
+}
+
+.produto-promocao{
+    border: solid 5px green;
+}

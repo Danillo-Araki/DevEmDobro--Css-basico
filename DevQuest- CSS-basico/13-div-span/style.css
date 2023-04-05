@@ -1,0 +1,20 @@
+.produto{
+    background-color: aqua;
+}
+
+
+.produto span{
+    font-size: 24px;
+    color: orange;
+}
+
+.pc-decricao{
+    font-size: 24px;
+    color: blueviolet;
+}
+
+
+/* .video-game{
+    font-size: 24px;
+    color: orange;
+} */
